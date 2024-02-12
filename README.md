@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg:large)
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <h3 align="center">A passionate frontend developer from Ukraine with 3 years of experiance.</h3>
-<div display="flex"> <p> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4"><img src="https://github-profile-trophy.vercel.app/?username=alex-belokon" alt="alex-belokon" /></a> </p><img" alt="coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div display="flex"> <p> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4"><img src="https://github-profile-trophy.vercel.app/?username=alex-belokon" alt="alex-belokon" /></a> </p><img alt="coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
 
 
