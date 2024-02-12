@@ -3,7 +3,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="center">A passionate frontend developer from Ukraine with 3 years of experiance.</h3>
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left" margin-top="50"> <img src="https://komarev.com/ghpvc/?username=alex-belokon&label=Profile%20views&color=0e75b6&style=flat" alt="alex-belokon" /> </p>
+<p align="left" margin="50"> <img src="https://komarev.com/ghpvc/?username=alex-belokon&label=Profile%20views&color=0e75b6&style=flat" alt="alex-belokon" /> </p>
 <p align="left"> <a href="https://twitter.com/@alexbellllll" target="blank"><img src="https://img.shields.io/twitter/follow/@alexbellllll?logo=twitter&style=for-the-badge" alt="@alexbellllll" /></a> </p>
 
 <p align="left" > <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4"><img width="750" src="https://github-profile-trophy.vercel.app/?username=alex-belokon" alt="alex-belokon" /></a> </p>
