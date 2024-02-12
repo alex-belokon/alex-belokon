@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.png))
+![MasterHead](https://i.pinimg.com/originals/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.png)
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="center">A passionate frontend developer from Ukraine with 3 years of experiance.</h3>
@@ -28,7 +28,9 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-belokon&show_icons=true&locale=en&layout=compact" alt="alex-belokon" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-belokon&show_icons=true&locale=en" alt="alex-belokon" /></p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-belokon&" alt="alex-belokon" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-belokon&" alt="alex-belokon" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-belokon&show_icons=true&locale=en" alt="alex-belokon" /></p>
+
+
 
