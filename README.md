@@ -1,10 +1,10 @@
 ![MasterHead](https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg:large)
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <h3 align="center">A passionate frontend developer from Ukraine with 3 years of experiance.</h3>
-<img align="center" alt="coding" width="500" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-belokon&label=Profile%20views&color=0e75b6&style=flat" alt="alex-belokon" /> </p>
 
-<p align="left" width="100"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex-belokon" alt="alex-belokon" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100" src="https://github-profile-trophy.vercel.app/?username=alex-belokon" alt="alex-belokon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@alexbellllll" target="blank"><img src="https://img.shields.io/twitter/follow/@alexbellllll?logo=twitter&style=for-the-badge" alt="@alexbellllll" /></a> </p>
 
