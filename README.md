@@ -1,4 +1,4 @@
-![MasterHead]([https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg:large](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))
+![MasterHead](https://i.pinimg.com/originals/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.png))
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="center">A passionate frontend developer from Ukraine with 3 years of experiance.</h3>
